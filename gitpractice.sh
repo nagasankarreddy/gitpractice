@@ -2,7 +2,7 @@
 echo "date is"
 date
 echo "diskutilization is"
-df -h
+df -m
 echo $SHELL
 echo "server uptime is"
 uptime 
